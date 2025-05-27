@@ -1,0 +1,6 @@
+#1: Cielli Tomas, 440 (22 anios).
+#2: Cielli Juan, 450 (21 anios).
+#3: Moro Maria, 170 (60 anios).
+#4: Cielli Pedro, 110 (72 anios).
+#5: Moro Flor, 200 (59 anios).
+#6: Amieva Esteban, 350 (30 anios).

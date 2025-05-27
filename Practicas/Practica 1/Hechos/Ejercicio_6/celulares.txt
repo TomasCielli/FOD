@@ -1,0 +1,9 @@
+1 100.30   Apple
+4 50   Blanco y Negro
+Iphone 10
+2 500.40  Apple
+10 20  Rojo
+Iphone 11
+3 700.00 Apple
+60 50 Rosa
+Iphone 12

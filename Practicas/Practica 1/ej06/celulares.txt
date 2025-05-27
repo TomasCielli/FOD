@@ -1,0 +1,12 @@
+1 100.00       Apple
+0 20       Azul
+Iphone_X
+
+2 50.00       Apple
+50 10       Rojo
+Iphone_8
+
+4 750.50      Apple
+25 5      Verde
+Iphone_15
+

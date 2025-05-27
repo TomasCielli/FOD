@@ -1,0 +1,11 @@
+1 100.0 Apple
+10 20 Azul
+Iphone_X
+
+2 50.0 Apple
+40 10 Rojo
+Iphone_8
+
+3 400.5 Apple
+40 10 Azul
+Iphone_13
