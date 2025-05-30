@@ -1,0 +1,23 @@
+
+-----------------------
+
+Acta de nacimiento #1(Matricula: M1): Apellido1 Nombre1 | Vive: Si.
+Direccion: Ciudad1 Calle1 1 1 A 
+Datos de la madre: Map1 Madre1 (DNI: 1001).
+Datos del padre: Pap1 Padre1 (DNI: 2001).
+
+-----------------------
+
+Acta de nacimiento #2(Matricula: M2): Apellido2 Nombre2 | Vive: No.
+Direccion: Ciudad2 Calle2 2 2 B 
+Datos de la madre: Map2 Madre2 (DNI: 1002).
+Datos del padre: Pap2 Padre2 (DNI: 2002).
+Datos fallecimiento: 
+Fecha: 10/5/2020 a las 12 horas y 0 minutos, en CiudadF2, CFal2 12
+
+-----------------------
+
+Acta de nacimiento #3(Matricula: M3): Apellido3 Nombre3 | Vive: Si.
+Direccion: Ciudad3 Calle3 3 3 C 
+Datos de la madre: Map3 Madre3 (DNI: 1003).
+Datos del padre: Pap3 Padre3 (DNI: 2003).
