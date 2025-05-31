@@ -1,0 +1,25 @@
+----------- LISTADO NOVELAS -----------
+
+
+#1 El Padrino | $5000.00
+
+#2 Interestelar | $4600.00
+
+#3 Pulp Fiction | $4300.00
+
+#4 La La Land | $4100.00
+
+#5 Forrest Gump | $3900.00
+
+#6 Inception | $4700.00
+
+#8 Parasite | $4200.00
+
+#9 El Laberinto del Fauno | $3800.00
+
+#10 El secreto de sus ojos | $4000.00
+ 
+----------- NOVELAS ELIMINADAS -----------
+
+
+#0 Bambi | $600.00
